@@ -28,7 +28,6 @@ skills/
 !tools/skillgen/fragments/core/
 !tools/skillgen/fragments/core/**
 docs/superpowers/
-.vscode/
 .kilo
 openspec/
 # Local benchmark scripts — never commit
@@ -37,3 +36,5 @@ scripts/llm.py
 scripts/benchmark_kimi*.json
 scripts/benchmark_kimi*.py
 paper/
+config.bat
+node_modules
